@@ -7,10 +7,12 @@ img: 4dassoc_teaser.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: []
 ---
+
 **Yuxiang Zhang**, [Liang An](https://anl13.github.io/ ""), [Tao Yu](http://ytrock.com/ ""), [Xiu Li](http://lixiulive.com/ ""), [Kun Li](http://cic.tju.edu.cn/faculty/likun/ ""), [Yebin Liu](http://www.liuyebin.com/ "")
 
 <font color=Orange>IEEE onference on Computer Vision and Pattern Recognition (CVPR 2020)</font>
-[[paper](https://arxiv.org/ "")] [video](http://youtube.com/ "")
+
+[[paper](https://arxiv.org/ "")] [[video](http://youtube.com/ "")]
 
 ## Abstract
 This paper contributes a novel realtime multi-person motion capture algorithm using multiview video inputs. Due to the heavy occlusions in each view, joint optimization on the multiview images and multiple temporal frames is indispensable, which brings up the essential challenge of realtime efficiency. To this end, for the first time, we unify per-view parsing, cross-view matching, and temporal tracking into a single optimization framework, i.e., a 4D association graph that each dimension (image space, viewpoint and time) can be treated equally and simultaneously. To solve the 4D association graph efficiently, we further contribute the idea of 4D limb bundle parsing based on heuristic searching, followed with limb bundle assembling by proposing a bundle Kruskal's algorithm. Our method enables a real-time online motion capture system running at 30fps using 5 cameras on a 5-person scene. Benefiting from the unified parsing, matching and tracking constraints, our method is robust to noisy detection, and achieves high-quality online pose reconstruction quality. The proposed method outperforms the state-of-the-art method quantitatively without using high-level appearance information. We also contribute a multiview video dataset synchronized with a marker-based motion capture system for scientific evaluation.
