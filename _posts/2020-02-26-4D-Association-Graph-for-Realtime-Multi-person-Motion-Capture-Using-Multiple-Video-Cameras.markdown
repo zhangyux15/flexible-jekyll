@@ -8,7 +8,8 @@ fig-caption: # Add figcaption (optional)
 tags: []
 ---
 **Yuxiang Zhang**, [Liang An](https://anl13.github.io/ ""), [Tao Yu](http://ytrock.com/ ""), [Xiu Li](http://lixiulive.com/ ""), [Kun Li](http://cic.tju.edu.cn/faculty/likun/ ""), [Yebin Liu](http://www.liuyebin.com/ "")
-<font color=orange>IEEE onference on Computer Vision and Pattern Recognition (CVPR 2020)</font>
+
+<font color=Orange>IEEE onference on Computer Vision and Pattern Recognition (CVPR 2020)</font>
 [[paper](https://arxiv.org/ "")] [video](http://youtube.com/ "")
 
 ## Abstract
