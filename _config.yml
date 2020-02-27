@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Yuxiang Zhang # add your name
 author-img: photo.jpg # add your photo
-about-author: Hi, I am a 1st year Ph.D student at Department of Automation, advised by Yebin Liu in BBNC lab, Tsinghua University. My research focuses on in computer vision and graphics, specifically on multi-person markless motion capture and 3D human reconstruction.
+about-author: Hi, I am a 1st year Ph.D student at Department of Automation, advised by Yebin Liu in BBNC lab, Tsinghua University. My research focuses on computer vision and graphics, specifically on multi-person markless motion capture and 3D human reconstruction.
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: zhangyux15 # add your Github handle
